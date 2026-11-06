@@ -1,6 +1,6 @@
 # Umar Masoodi
 
-**Marketing Strategist | Revenue Growth | Brand Building**
+**Marketing Strategist | Revenue Growth | Brand Building**<br>
 **UAE · India · Morocco**
 
 ---
