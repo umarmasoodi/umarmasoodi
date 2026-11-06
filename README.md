@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Umar Masoodi</h1>
-<h3 align="center">Performance Marketing Strategist · Paid Media · Analytics & Reporting</h3>
+<h3 align="center">Performance Marketing Strategist · Revenue Growth · Brand Building</h3>
+<p align="center"><b>Serving brands across the UAE, India and Morocco</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iamumarmasoodi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -9,25 +10,48 @@
 
 ### About me
 
-I help brands **get maximum visibility from minimum budget**. I plan, run and optimize paid campaigns across **Google Ads, Meta Ads and programmatic**, and I back every decision with clean data and clear reporting.
+I help brands **turn ad spend into revenue and build names people remember**. I combine paid media (**Google Ads, Meta Ads and programmatic**) with data-driven reporting, so every campaign drives sales today and builds brand value for tomorrow.
 
-- **Specialty:** low-budget, high-impact campaign strategy
-- **Market focus:** UAE / GCC, travel & tourism
-- **Approach:** audit → measure → optimize → report → repeat
+- **Focus:** revenue generation, ROAS-driven growth and brand building
+- **Markets:** UAE, India and Morocco
+- **Strength:** big market impact from lean budgets
+- **Approach:** audit → strategize → launch → optimize for revenue → report
 
 ---
 
-### Featured win: Travel brand → #1 in impressions in the UAE
+### What I deliver
+
+| Goal | How I get there |
+|---|---|
+| **Revenue generation** | Full-funnel campaigns built around ROAS, CPA and conversion value, not vanity metrics |
+| **Brand building** | Awareness and reach strategies that grow recall, share of voice and trust |
+| **Efficient growth** | Content and campaign audits that cut wasted spend and move budget to what sells |
+| **Clear decisions** | Revenue-focused reporting that shows exactly where growth is coming from |
+
+---
+
+### Markets I serve
+
+| Market | Expertise |
+|---|---|
+| **UAE** | Competitive, high-value market. Premium audience targeting, travel & tourism, multilingual (English/Arabic) campaigns |
+| **India** | Large, fast-growing market. Scalable performance campaigns, cost-efficient acquisition, regional targeting |
+| **Morocco** | Emerging digital market. Brand entry and awareness, multilingual (Arabic/French) audiences, early-mover advantage |
+
+---
+
+### Featured win: Travel brand becomes a market leader in the UAE
 
 > **Challenge:** A travel brand had to compete in the crowded UAE travel market against much bigger ad budgets.
 >
 > **What I did:**
-> - Audited existing content and campaigns to cut wasted spend
+> - Audited content and campaigns to cut wasted spend
 > - Rebuilt targeting and bidding across Google Ads, Meta Ads and programmatic
-> - Set up reporting dashboards to optimize weekly based on performance
+> - Balanced brand-awareness campaigns with conversion campaigns to drive bookings
+> - Set up revenue reporting to optimize every week
 >
-> **Result:** The brand reached the **top position in impressions** in its category with a **fraction of competitors' budget**, and became a leading name in UAE travel.
-<!-- TIP: add real numbers here, e.g. "+X% impressions", "-Y% CPC/CPM", "Z months" -->
+> **Result:** The brand reached the **top position in impressions** in its category on a **fraction of competitors' budget**, building strong brand presence and becoming a leading name in UAE travel.
+<!-- TIP: add real numbers here, e.g. "+X% revenue", "X ROAS", "+Y% bookings", "-Z% CPA" -->
 
 ---
 
@@ -36,29 +60,22 @@ I help brands **get maximum visibility from minimum budget**. I plan, run and op
 | Area | What I do |
 |---|---|
 | **Paid media** | Google Ads (Search, Display, YouTube, PMax), Meta Ads (Facebook & Instagram), programmatic / DSP |
-| **Analytics** | GA4, Google Tag Manager, conversion tracking, attribution |
-| **Reporting** | Looker Studio dashboards, KPI frameworks, performance reports |
-| **Content** | Content auditing, SEO/content gap analysis, ad creative strategy |
-| **Strategy** | Media planning, budget allocation, funnel optimization |
+| **Revenue & analytics** | GA4, Google Tag Manager, conversion & revenue tracking, attribution, ROAS analysis |
+| **Reporting** | Looker Studio dashboards, revenue KPI frameworks, performance reports |
+| **Brand & content** | Brand strategy, content auditing, creative strategy, share-of-voice tracking |
+| **Strategy** | Media planning, budget allocation, funnel optimization, market entry |
 
 ---
 
 ### What you'll find here
 
-- **Templates:** campaign briefs, media plans, content audit checklists
-- **Reporting:** dashboard templates and KPI frameworks
-- **Marketing prompts:** AI prompts for ad copy, audits and reporting
-- **Case studies:** how I approach real marketing problems
-
----
-
-### Currently
-
-- Sharing practical paid-media playbooks for the UAE/GCC market
-- Building reporting templates that make campaign performance easy to read
+- **Revenue playbooks:** campaign structures that turn ad spend into sales
+- **Brand-building frameworks:** awareness-to-conversion strategies
+- **Market guides:** paid-media insights for the UAE, India and Morocco
+- **Templates:** media plans, campaign briefs, content audit checklists, reporting dashboards
 
 ---
 
 ### Let's connect
 
-Open to collaborations, consulting and growth-marketing roles. Reach out on **[LinkedIn](https://www.linkedin.com/in/iamumarmasoodi/)**.
+Looking to grow revenue or build your brand in the **UAE, India or Morocco**? Let's talk on **[LinkedIn](https://www.linkedin.com/in/iamumarmasoodi/)**.
